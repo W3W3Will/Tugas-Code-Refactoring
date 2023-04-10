@@ -1,0 +1,8 @@
+in the comment code refactoring, the code has
+some obvious yet unnecesary explanation in the
+code, which it makes the code confusing to read.
+the solution to this problem is by using the 
+extract method to get rid of the comment and
+change the parameters to make it look more
+obvious than using comments to give unecessary
+explanation to the code.
