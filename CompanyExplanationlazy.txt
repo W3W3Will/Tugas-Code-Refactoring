@@ -1,0 +1,7 @@
+in this refactoring of a code for company,
+the code has a code smell of lazy class.
+the code simply is a class but it has lack
+of functions. the refactored version is adding
+new data type to the class to make more use of
+the class and to get rid of the lazy class
+smell
