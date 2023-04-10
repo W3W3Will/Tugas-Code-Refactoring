@@ -1,0 +1,5 @@
+Data Class : 
+Data class terjadi didalam class coordinates. Dimana didalamnya hanya terdapat variabel penyimpanan variabel dan setter getternya. Penyelesaian dari smell code ini berupa pemindahan metode calculate distance dari main menuju kedalam class coordinates.
+
+Large Class:
+File large class merupakan sebuah algoritma simulasi perpustakaan. Didalamnya terdapat catatan book, reader, dan borrowing status yang dimiliki sebuah perpustakaan. Smell code terjadi didalam class library, dimana class tersebut tidak memiliku tujuan yang terfokus. Library sebelum refactoring bertugas menyimpan data reader, book, juga mengatur sistem peminjaman perpustakaan. Setelah refactoring seluruh method yang berhubungan dengan fungsi peminjaman dipindahkan menjadi class baru bernama BorrowedBookManager.
